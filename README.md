@@ -1,9 +1,8 @@
-Google Tag Manager for WordPress
+Google Tag Manager for WordPress - MAINTAINED!
 ================================
 
-[![Build Status](https://travis-ci.org/duracelltomi/gtm4wp.svg?branch=master)](https://travis-ci.org/duracelltomi/gtm4wp)
-
 This GitHub repo was created to allow others to easily contribute to this WordPress plugin. You can find more about the plugin at [the plugin homepage](https://gtm4wp.com/)
+I am not sure what happened with the previous and original plugin, so I decided to create this fork and maintain all the needed changes through here.
 
 Support
 -------
